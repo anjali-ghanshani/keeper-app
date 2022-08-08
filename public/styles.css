@@ -20,7 +20,7 @@ header {
 
 header h1 {
   color: #fff;
-  font-family: "McLaren", cursive;
+  font-family: "Montserrat", sans-serif;
   font-weight: 200;
 }
 
@@ -56,6 +56,7 @@ footer p {
 }
 
 .note button {
+  background-color: white;
   position: relative;
   float: right;
   margin-right: 10px;
