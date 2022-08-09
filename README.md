@@ -15,5 +15,4 @@ To-do:
 Web url: <https://keeper-app-kappa.vercel.app/>
 
 Screenshots:
-- <>
-- <>
+![keeper-app](./keeper-app.png)
